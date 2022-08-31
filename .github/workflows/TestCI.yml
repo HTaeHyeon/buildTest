@@ -33,8 +33,8 @@ jobs:
         # uses: NuGet/setup-nuget@795d81930e6f583d6dbe984a5634efe5de9e54a7
         uses: NuGet/setup-nuget@v1.0.7
         
-      #- name: Restore NuGet packages
-      #  run: nuget restore buildTest.sln
+      - name: Restore NuGet packages
+        run: nuget restore buildTest/BuildTest.sln
         
       - name: Build the Solution
-        run: msbuild BuildTest.sln
+        run: msbuild buildTest/BuildTest.sln
