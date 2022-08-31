@@ -20,9 +20,6 @@ jobs:
     # The type of runner that the job will run on
     runs-on: [windows-latest]
 
-    env:
-      BuildPath: ${{ github.workspace }}\BuildTesting\bin\Release
-
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -46,6 +43,6 @@ jobs:
         uses: actions/upload-artifact@v2.2.4
         with:
           name: testBuild
-          path: ${{ github.workspace }}\BuildTest\BuildTesting\bin\Release
+          path: ${{ github.workspace }}\BuildTest\BuildTest\bin\Release
 
           retention-days: 1
