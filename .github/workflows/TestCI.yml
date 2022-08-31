@@ -46,6 +46,6 @@ jobs:
         uses: actions/upload-artifact@v2.2.4
         with:
           name: testBuild
-          path: ${{ github.workspace }}\BuildTesting\bin\Release
+          path: ${{ github.workspace }}\BuildTest\BuildTesting\bin\Release
 
           retention-days: 1
