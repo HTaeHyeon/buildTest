@@ -38,3 +38,11 @@ jobs:
         
       - name: Build the Solution
         run: msbuild buildTest/BuildTest.sln /p:Configuration=Release
+        
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2.2.4
+        with:
+          name: testBuild
+          path: ${{ github.workspace }}\BuildTesting\bin\Release
+
+          retention-days: 1
