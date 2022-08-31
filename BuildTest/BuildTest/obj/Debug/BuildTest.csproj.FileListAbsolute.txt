@@ -1,0 +1,16 @@
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\bin\Debug\BuildTest.exe.config
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\bin\Debug\BuildTest.exe
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\bin\Debug\BuildTest.pdb
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.csproj.AssemblyReference.cache
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\MainWindow.g.cs
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\App.g.cs
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest_MarkupCompile.cache
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest_MarkupCompile.lref
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\MainWindow.baml
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.g.resources
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.Properties.Resources.resources
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.csproj.GenerateResource.cache
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.csproj.CoreCompileInputs.cache
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.exe
+C:\Users\mrknr\Documents\GitHub\buildTest\BuildTest\BuildTest\obj\Debug\BuildTest.pdb
